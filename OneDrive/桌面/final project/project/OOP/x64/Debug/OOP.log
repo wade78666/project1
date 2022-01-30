@@ -1,0 +1,46 @@
+﻿  Source.cpp
+D:\計算機程式概論\專題\project\OOP\triangle.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\計算機程式概論\專題\project\OOP\triangle.h(46,43): warning C4244: '引數': 將 'double' 轉換為 'const unsigned __int64'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\triangle.h(46,60): warning C4244: '引數': 將 'double' 轉換為 'const unsigned __int64'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\triangle.h(46,77): warning C4244: '引數': 將 'double' 轉換為 'const unsigned __int64'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Calculation.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\計算機程式概論\專題\project\OOP\draw.h(172,33): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\draw.h(173,33): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\draw.h(174,33): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\draw.h(256,50): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\計算機程式概論\專題\project\OOP\draw.h(261,102): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\draw.h(261,90): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\draw.h(261,78): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\draw.h(261,66): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\draw.h(261,54): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\draw.h(261,42): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(116,67): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(117,78): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(785,15): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1044,68): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1044,54): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1048,74): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1048,60): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1052,74): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1052,60): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1063,68): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1063,54): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1066,74): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1066,60): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1069,74): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1069,60): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1078,67): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1078,53): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1081,74): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1081,60): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1090,66): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1090,52): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1093,73): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1093,59): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1103,67): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1103,53): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1109,73): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1109,59): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1115,73): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\計算機程式概論\專題\project\OOP\Source.cpp(1115,59): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  OOP.vcxproj -> D:\計算機程式概論\專題\project\x64\Debug\OOP.exe
